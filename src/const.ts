@@ -131,7 +131,51 @@ var CONST = {
      * @type {number}
      * @since 3.0.0
      */
-    RIGHT: 8
+    RIGHT: 8,
+
+    SCENES: {
+        LOAD: "LOAD",
+        MENU: "MENU"
+    },
+
+    IMAGE:
+    {
+        LOGO: "alien_logo.png",
+        START: "start_button.png",
+        BG1: "background.png",
+        BG2: "background2.png",
+        BG3: "background3.png",
+        BG4: "background4.png",
+        BG5: "background5.png",
+        BG6: "background6.png",
+        BG7: "background7.png",
+        BG8: "background8.png",
+        BG9: "background9.png",
+        BG10: "background10.png",
+        BG11: "background11.png",
+        BG12: "background12.png"
+    },
+
+    SPRITE:
+    {
+        SHIP: "ship.png",
+        BULLET: "bullet.png",
+        HEART: "heart.png",
+        EMPTYHEART: "empty_heart.png"
+    },
+
+    AUDIO:
+    {
+        TITLEMUSIC: "POL-star-way-short.wav",
+        A: "A.mp3",
+        A1: "A1.mp3",
+        B: "B.mp3",
+        C: "C.mp3",
+        C1: "C1.mp3",
+        D: "D.mp3",
+        E: "E.mp3",
+        F: "F.mp3"
+    }
 
 };
 
